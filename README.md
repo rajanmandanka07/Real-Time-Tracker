@@ -1,4 +1,4 @@
-# Real-Time Tracker
+# Real Time Tracker
 
 ## Project Overview
 
